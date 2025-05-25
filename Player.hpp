@@ -1,10 +1,18 @@
+#pragma once
 #include <SFML/Graphics.hpp>
 
 using namespace sf;
 
-class PLAYER {
+class Player {
 public:
-    PLAYER(Texture &image);
+
+    float dx,dy;
+    FloatRect rect;
+    bool onGround;
+    Sprite sprite;
+    float currentFrame;
+
+    Player(Texture &image);
 
     void update(float time);
 

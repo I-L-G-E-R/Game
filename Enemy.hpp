@@ -1,13 +1,17 @@
+#pragma once
 #include <SFML/Graphics.hpp>
 
 using namespace sf;
 
-class ENEMY
-{
+class Enemy {
+public:
+   float dx,dy;
+   FloatRect rect;
+   Sprite sprite;
+   float currentFrame;
+   bool life;
+
    void set(Texture &image, int x, int y);
    void update(float time);
-
-   void update(float time);
-
    void Collision();
-}
+};
