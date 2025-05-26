@@ -7,7 +7,7 @@ using namespace sf;
 
 void StartGame() {
 
-    RenderWindow window(VideoMode(400, 250), "SFML works!");
+    RenderWindow window(VideoMode(400, 250), "MARIO game!");
 
     Texture tileSet;
     tileSet.loadFromFile("Mario_tileset.png");
