@@ -4,7 +4,6 @@
 
 using namespace sf;
 
-
 void StartGame() {
 
     RenderWindow window(VideoMode(400, 250), "SFML works!");
