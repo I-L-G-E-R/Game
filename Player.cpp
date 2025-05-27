@@ -62,7 +62,7 @@ void Player::Collision(int num) {
       }
 
       if (TileMap[i][j] == 'c') {
-        // TileMap[i][j]=' ';
+        //TileMap[i][j]=' ';
       }
     }
 }
