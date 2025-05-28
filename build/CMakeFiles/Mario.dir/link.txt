@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/Mario.dir/main.cpp.o CMakeFiles/Mario.dir/Enemy.cpp.o CMakeFiles/Mario.dir/Player.cpp.o CMakeFiles/Mario.dir/StartGame.cpp.o -o Mario  /usr/lib/x86_64-linux-gnu/libsfml-graphics.so.2.6.1 /usr/lib/x86_64-linux-gnu/libsfml-window.so.2.6.1 /usr/lib/x86_64-linux-gnu/libsfml-audio.so.2.6.1 /usr/lib/x86_64-linux-gnu/libsfml-system.so.2.6.1 

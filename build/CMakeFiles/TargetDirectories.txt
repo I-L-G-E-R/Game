@@ -1,0 +1,3 @@
+/home/alan/Ali-CS-Labs-2-Sem-IU5/Game/build/CMakeFiles/Mario.dir
+/home/alan/Ali-CS-Labs-2-Sem-IU5/Game/build/CMakeFiles/edit_cache.dir
+/home/alan/Ali-CS-Labs-2-Sem-IU5/Game/build/CMakeFiles/rebuild_cache.dir
